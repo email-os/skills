@@ -1,4 +1,4 @@
-# Emailos Skill
+# MailOS Email Ops Skill
 
 Reusable AI agent skill for MailOS email operations.
 
@@ -21,8 +21,8 @@ Once installed, agents will automatically use this skill when working with:
 ## Structure
 
 ```
-emailos/
-├── SKILL.md                      # Skill definition with workflows
+mailos-email-ops/
+├── SKILL.md                      # Skill definition
 └── references/
     └── command-recipes.md        # Command reference
 ```
